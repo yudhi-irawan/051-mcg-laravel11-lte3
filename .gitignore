@@ -3,7 +3,7 @@
 checkstatic.txt
 ~catatan-github.txt
 ErrorLog.htm
-
+#
 /.phpunit.cache
 /node_modules
 /public/build
